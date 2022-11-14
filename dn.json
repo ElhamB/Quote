@@ -1,0 +1,29 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "author": "json-server",
+      "text": "typicode"
+    },
+    {
+      "author": "Elham",
+      "text": "great news congradulation",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "some comment",
+      "quoteId": 2
+    },
+    {
+      "id": 2,
+      "text": "some comment 2",
+      "quoteId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
